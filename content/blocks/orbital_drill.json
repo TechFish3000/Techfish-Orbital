@@ -1,0 +1,35 @@
+{
+	"name": "Orbital Laser Drill",
+	"description": "ORBITAL PLATFORM READY. [red]NOT YET IMPLEMENTED !!!DO NOT LET IT TAKE DAMAGE, GAME WILL CRASH!!!",
+	"type": "Drill",
+	"size": 6,
+	"tier": 6,
+	"drillTime": 20,
+	"consumes": {
+		"power": 40.0,
+		"liquid": {
+			"liquid": "cryofluid", 
+			"amount": 0.1,
+			"booster": true
+		}
+	},
+	"requirements": [
+		{ "item": "steel_plate", "amount": 400 },
+		{ "item": "silicon", "amount": 400 },
+		{ "item": "graphite", "amount": 200 },
+    {
+      "item": "copper",
+      "amount": 1000
+    },
+    {
+      "item": "navigation_data",
+      "amount": 10
+    },
+    {
+      "item": "power_cell",
+      "amount": 200
+    }
+	],
+	"category": "production",
+	"research": "blast-drill"
+}
