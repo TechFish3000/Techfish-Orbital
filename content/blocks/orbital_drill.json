@@ -1,5 +1,6 @@
 {
 	"name": "Orbital Laser Drill",
+	"health": 250,
 	"description": "ORBITAL PLATFORM READY. [red]NOT YET IMPLEMENTED",
 	"type": "Drill",
 	"size": 5,
