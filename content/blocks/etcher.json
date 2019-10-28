@@ -63,7 +63,7 @@
     }
   ],
   "category": "crafting",
-  "research": "iron_forge",
+  "research": "kiln",
   "idleSound": "respawning",
   "idleSoundVolume": 0.5
 }
