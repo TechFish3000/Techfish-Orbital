@@ -3,5 +3,9 @@
   "author": "Techfish3000",
   "description": "[cyan]Orbital Drills[], [red]Weapons[] and downright [green]Awesomeness.",
   "version": 0.20,
+<<<<<<< HEAD
   "dependencies": [ "Techfish-Core"]
+=======
+  "dependencies": [ "TechFish3000/Techfish-Core"]
+>>>>>>> 4be4fbdb35944a5f7626ccc216e127b5dbdf1645
 }
