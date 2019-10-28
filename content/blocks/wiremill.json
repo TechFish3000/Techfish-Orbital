@@ -1,0 +1,61 @@
+{
+  "type": "GenericSmelter",
+  "name": "Wiremill",
+  "description": "Created satellite wiring from copper and surge alloy, with a rubber casing.",
+
+  "outputItem": {
+    "item": "satwire",
+    "amount": 1
+  },
+  "size": 2,
+  "hasPower": true,
+  "hasLiquids": false,
+  "hasItems": true,
+  "craftTime": 120,
+  "updateEffect": "smeltsmoke",
+  "consumes": {
+    "power": 0.4,
+    "items": {
+      "items": [
+        {
+          "item": "techfish-core-rubber",
+          "amount": 2
+            
+        },
+        {
+          "item":  "copper",
+          "amount": 50
+        },
+        {
+          "item": "surgealloy",
+          "amount": 2
+
+        }
+      ]
+    }
+
+
+  },
+  "requirements": [
+    {
+      "item": "lead",
+      "amount": 50
+    },
+    {
+      "item": "titanium",
+      "amount": 80
+    },
+    {
+      "item": "silicon",
+      "amount": 60
+    },
+    {
+      "item": "iron_plate",
+      "amount": 50
+    }
+  ],
+  "category": "crafting",
+  "research": "iron_forge",
+  "idleSound": "respawning",
+  "idleSoundVolume": 0.5
+}

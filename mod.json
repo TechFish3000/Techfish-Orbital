@@ -2,7 +2,7 @@
   "name": "Techfish-Orbital",
   "author": "Techfish3000",
   "description": "[cyan]Orbital Drills[], [red]Weapons[] and downright [green]Awesomeness.",
-  "version": 0.20,
+  "version": 0.21,
 
   "dependencies": [ "techfish-core"]
 
