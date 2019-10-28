@@ -4,6 +4,6 @@
   "description": "[cyan]Orbital Drills[], [red]Weapons[] and downright [green]Awesomeness.",
   "version": 0.20,
 
-  "dependencies": [ "Techfish-Core"]
+  "dependencies": [ "techfish-core"]
 
 }
