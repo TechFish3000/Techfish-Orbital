@@ -1,0 +1,7 @@
+{
+  "type": "resource",
+  "name": "Satellite Hull",
+  "description": "Outer casing for a satellite.",
+
+  "color": "bf1400"
+}

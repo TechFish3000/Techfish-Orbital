@@ -1,0 +1,7 @@
+{
+  "type": "resource",
+  "name": "Satellite Solar Panel",
+  "description": "Solar panel for powering a satellite.",
+
+  "color": "bf1400"
+}

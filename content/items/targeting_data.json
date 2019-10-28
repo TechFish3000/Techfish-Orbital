@@ -1,0 +1,7 @@
+{
+  "type": "material",
+  "name": "Targeting Data",
+  "description": "Data significant enough to align an [cyan]orbital platform[].",
+
+  "color": "bf1400"
+}

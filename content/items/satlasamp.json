@@ -1,0 +1,7 @@
+{
+  "type": "resource",
+  "name": "Laser Amplifier",
+  "description": "Device to amplify the seed beam of [red]laser[].",
+
+  "color": "bf1400"
+}
