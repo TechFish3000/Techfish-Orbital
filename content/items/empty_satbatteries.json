@@ -1,0 +1,7 @@
+{
+  "type": "resource",
+  "name": "Empty Satellite Battery Cell",
+  "description": "High-Capacity cells for use in a high-power [cyan]orbital laser[], yet to be charged",
+
+  "color": "bf1400"
+}

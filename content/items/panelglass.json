@@ -1,7 +1,7 @@
 {
   "type": "resource",
-  "name": "Hardened Glass",
-  "description": "Hardened glass, for scratch-resistant solar panels.",
+  "name": "Ultraglass",
+  "description": "Hardened glass, for scratch-resistant solar panels. [accent]They really outdid themselves with their marketing campaign.",
 
   "color": "bf1400"
 }

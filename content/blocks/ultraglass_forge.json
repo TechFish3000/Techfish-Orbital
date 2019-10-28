@@ -1,0 +1,58 @@
+{
+  "type": "GenericSmelter",
+  "name": "Ultraglass Forge",
+  "description": "Creates ultraglass from metaglass and surge alloy",
+
+  "outputItem": {
+    "item": "panelglass",
+    "amount": 2
+  },
+  "size": 2,
+  "itemCapacity":  10,
+  "hasPower": true,
+  "hasLiquids": false,
+  "hasItems": true,
+  "craftTime": 120,
+  "updateEffect": "smeltsmoke",
+  "consumes": {
+    "power": 0.4,
+    "items": {
+      "items": [
+        
+        {
+          "item":  "metaglass",
+          "amount": 3
+        },
+        {
+          "item": "surge-alloy",
+          "amount": 2
+
+        }
+      ]
+    }
+
+
+  },
+  "requirements": [
+    {
+      "item": "lead",
+      "amount": 50
+    },
+    {
+      "item": "titanium",
+      "amount": 80
+    },
+    {
+      "item": "silicon",
+      "amount": 60
+    },
+    {
+      "item": "techfish-core-iron_plate",
+      "amount": 50
+    }
+  ],
+  "category": "crafting",
+  "research": "techfish-core-iron_forge",
+  "idleSound": "respawning",
+  "idleSoundVolume": 0.5
+}
