@@ -8,6 +8,7 @@
     "amount": 1
   },
   "size": 2,
+  "itemCapacity":  100,
   "hasPower": true,
   "hasLiquids": false,
   "hasItems": true,
