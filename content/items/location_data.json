@@ -1,6 +1,6 @@
 {
   "type": "material",
-  "name": "Orbital Platform Location Data",
+  "name": "Satellite Location Data",
   "description": "Data detailing the current position, for alignment of an [cyan]orbital platform[].",
 
   "color": "bf1400"
