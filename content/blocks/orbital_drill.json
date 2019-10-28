@@ -20,7 +20,7 @@
 		{ "item": "silicon", "amount": 400 },
 		{ "item": "graphite", "amount": 200 },
 		{ "item": "metaglass", "amount":100 },
-                { "item": "steel_plate", "amount": 200},
+                { "item": "Techfish-Core-steel_plate", "amount": 200},
     {
       "item": "copper",
       "amount": 3000
