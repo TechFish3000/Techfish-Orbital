@@ -1,0 +1,72 @@
+{
+  "type": "GenericSmelter",
+  "name": "Satellite Construction Center",
+  "description": "Constructs a Satellite from components",
+
+  "outputItem": {
+    "item": "sat_pack",
+    "amount": 1000
+  },
+  "size": 4,
+  "itemCapacity":  10,
+  "hasPower": true,
+  "hasLiquids": false,
+  "hasItems": true,
+  "craftTime": 3600,
+  "updateEffect": "smeltsmoke",
+  "consumes": {
+    "power": 2,
+    "items": {
+      "items": [
+        {
+          "item": "satpowersystems",
+          "amount": 20
+            
+        },
+        {
+          "item":  "phase-fabric",
+          "amount": 20
+        },
+        {
+          "item": "satlasersystems",
+          "amount": 20
+
+        },
+        {
+          "item": "sathull",
+          "amount": 500
+        },
+        {
+          "item": "targeting_data",
+          "amount": 40
+
+        }
+
+      ]
+    }
+
+
+  },
+  "requirements": [
+    {
+      "item": "lead",
+      "amount": 50
+    },
+    {
+      "item": "titanium",
+      "amount": 80
+    },
+    {
+      "item": "silicon",
+      "amount": 60
+    },
+    {
+      "item": "techfish-core-iron_plate",
+      "amount": 50
+    }
+  ],
+  "category": "crafting",
+  "research": "techfish-core-iron_forge",
+  "idleSound": "respawning",
+  "idleSoundVolume": 0.5
+}

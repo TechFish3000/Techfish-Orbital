@@ -1,6 +1,6 @@
 {
   "type": "resource",
-  "name": "Satellite Hull",
+  "name": "Satellite Hull Panel",
   "description": "Outer casing for a satellite.",
 
   "color": "bf1400"
