@@ -3,7 +3,7 @@
 	"health": 250,
 	"description": "ORBITAL PLATFORM READY. [red]NOT YET IMPLEMENTED",
 	"type": "Drill",
-	"size": 5,
+	"size": 10,
 	"tier": 6,
   "rotateSpeed": 10,
 	"drillTime": 20,
