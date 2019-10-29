@@ -1,0 +1,62 @@
+{
+  "type": "GenericCrafter",
+  "name": "Hull Fabricator",
+  "description": "Creates hull plating for a satellite",
+
+  "outputItem": {
+    "item": "sathull",
+    "amount": 2
+  },
+  "size": 3,
+  "itemCapacity":  10,
+  "hasPower": true,
+  "hasLiquids": false,
+  "hasItems": true,
+  "craftTime": 60,
+  "updateEffect": "smeltsmoke",
+  "consumes": {
+    "power": 0.4,
+    "items": {
+      "items": [
+        
+        {
+          "item":  "thorium",
+          "amount": 1
+        },
+        {
+          "item": "titanium",
+          "amount": 5
+
+        }
+      ]
+    }
+
+
+  },
+  "requirements": [
+    {
+      "item": "lead",
+      "amount": 50
+    },
+    {
+      "item": "titanium",
+      "amount": 80
+    },
+    {
+      "item": "silicon",
+      "amount": 60
+    },
+    {
+      "item": "thorium",
+      "amount": 60
+    },
+    {
+      "item": "techfish-core-iron_plate",
+      "amount": 50
+    }
+  ],
+  "category": "crafting",
+  "research": "alloy-smelter",
+  "idleSound": "respawning",
+  "idleSoundVolume": 0.5
+}
