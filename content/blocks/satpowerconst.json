@@ -1,14 +1,14 @@
 {
   "type": "GenericSmelter",
-  "name": "Laser Amplifier Constructor",
-  "description": "Constructs laser amplifiers",
+  "name": "Satellite Power Systems Assembler",
+  "description": "Assembles the power systems for a satellite",
 
   "outputItem": {
-    "item": "satlasamp",
-    "amount": 1
+    "item": "satpowersystems",
+    "amount": 2
   },
-  "size": 2,
-  "itemCapacity": 40,
+  "size": 3,
+  "itemCapacity": 50,
   "hasPower": true,
   "hasLiquids": false,
   "hasItems": true,
@@ -20,16 +20,16 @@
       "items": [
 
         {
-          "item": "techfish-core-lasdiode",
-          "amount": 10
+          "item": "goodsatpanel",
+          "amount": 40
         },
         {
-          "item": "techfish-core-laslens",
-          "amount": 20
+          "item": "satbatteriescharged",
+          "amount": 2
 
         },
         {
-          "item": "surge-alloy",
+          "item": "satwire",
           "amount": 5
         }
       ]
@@ -60,7 +60,7 @@
     }
   ],
   "category": "crafting",
-  "research": "techfish-core-lens_former",
+  "research": "lasampcon",
   "idleSound": "respawning",
   "idleSoundVolume": 0.5
 }
