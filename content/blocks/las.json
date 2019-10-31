@@ -60,7 +60,7 @@
     }
   ],
   "category": "crafting",
-  "research": "laslensformer",
+  "research": "lens_former",
   "idleSound": "respawning",
   "idleSoundVolume": 0.5
 }
