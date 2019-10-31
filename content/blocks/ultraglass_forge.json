@@ -21,12 +21,16 @@
         
         {
           "item":  "metaglass",
-          "amount": 3
+          "amount": 10
         },
         {
           "item": "surge-alloy",
           "amount": 2
 
+        },
+        {
+          "item": "thorium",
+          "amount": 5.0
         }
       ]
     }
