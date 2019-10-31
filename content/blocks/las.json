@@ -60,7 +60,7 @@
     }
   ],
   "category": "crafting",
-  "research": "lens_former",
+  "research": "techfish-core-lens_former",
   "idleSound": "respawning",
   "idleSoundVolume": 0.5
 }
