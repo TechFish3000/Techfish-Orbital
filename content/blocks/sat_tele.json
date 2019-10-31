@@ -1,0 +1,62 @@
+{
+  "type": "GenericCrafter",
+  "name": "Satellite Teleportation Matrix",
+  "description": "Teleports a constructed satellite into orbit.",
+
+  "outputItem": {
+    "item": "location_data",
+    "amount": 3
+  },
+  "size": 6,
+  "itemCapacity":  1000,
+  "hasPower": true,
+  "hasLiquids": false,
+  "hasItems": true,
+  "craftTime": 7200,
+  "updateEffect": "smeltsmoke",
+  "consumes": {
+    "power": 2,
+    "items": {
+      "items": [
+        
+        {
+          "item":  "satpack",
+          "amount": 1000
+        },
+        {
+          "item": "phase-fabric",
+          "amount": 200
+        }
+
+      ]
+    }
+
+
+  },
+  "requirements": [
+    {
+      "item": "lead",
+      "amount": 200
+    },
+    {
+      "item": "titanium",
+      "amount": 800
+    },
+    {
+      "item": "silicon",
+      "amount": 600
+    },
+    {
+      "item": "thorium",
+      "amount": 500
+    },
+    {
+      "item": "techfish-core-steel_plate",
+      "amount": 500
+    }
+  ],
+  "category": "crafting",
+  "research": "satellite_constructor",
+  "idleSound": "respawning",
+  "idleSoundVolume": 0.5
+}
