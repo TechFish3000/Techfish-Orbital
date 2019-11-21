@@ -56,7 +56,7 @@
     }
   ],
   "category": "crafting",
-  "research": "techfish-core-iron_forge",
+  "research": "techfish-core-glass_crucible",
   "idleSound": "respawning",
   "idleSoundVolume": 0.5
 }

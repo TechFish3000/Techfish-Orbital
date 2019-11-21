@@ -1,7 +1,7 @@
 {
   "type": "material",
   "name": "Targeting Data",
-  "description": "Data significant enough to align an [cyan]orbital platform[].",
+  "description": "Data detailing the surface and orbital region of a planet.",
 
   "color": "bf1400"
 }
