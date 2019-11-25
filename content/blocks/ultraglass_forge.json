@@ -15,14 +15,15 @@
   "craftTime": 120,
   "updateEffect": "smeltsmoke",
   "consumes": {
-    "power": 0.4,
+    "liquid": {
+      "liquid": "techfish-core-molten_glass",
+      "amount": 10.0
+    },
+    "power": 0.75,
     "items": {
       "items": [
         
-        {
-          "item":  "metaglass",
-          "amount": 10
-        },
+       
         {
           "item": "surge-alloy",
           "amount": 2
